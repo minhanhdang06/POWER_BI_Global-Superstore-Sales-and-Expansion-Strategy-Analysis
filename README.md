@@ -112,3 +112,11 @@ Here are 5 steps of Design Thinking.
 1. Restore revenue growth by implementing marketing and sales campaigns in low-performing quarters.
 
 2. Expand business in Central and North Asia, because these are the two most profitable regions.
+
+3. Reduce return rates in LATAM, APAC and US by improving quality control and after-sales service.
+
+4. Focus on Corporate and Home Office customers to increase stable revenue, instead of just depending on Consumer.
+
+5. Promote sales of technology products, because they have the highest profit margin (42.06%), and optimize the strategy for Furniture.
+
+6. Improve logistics and shipping services, especially enhancing fast shipping for high-value orders.
