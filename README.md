@@ -73,28 +73,49 @@ Here are 5 steps of Design Thinking.
 ![PB4](https://github.com/user-attachments/assets/7eab7786-1bbb-4fbf-8c25-ce73636e1014)
 
 
-## IV. Insight & Recommendation
+## IV. Insights
 
-### Market Expansion
+### **1. Revenue and profit trends**
 
-1. **Market Overview**: The company has established presence in all major global markets. Rather than entering a completely new market, it is recommended to expand within the exisng market. Canada
-market is recommended.
-Despite its strong Year-over-Year (YoY) growth rate and profit margin, Canada’s customer base remains limited, resulng in lower revenue.
---> It is proposed to develop a strategy to reach a broader customer segment in Canada.
-2. **Sales Agent**: Nicole Hansen is currently responsible for the Canadian market. The revenue, profit margin, and YoY growth rate indicators are performing well. It is advisable to connue his/her oversight
-of this market.
-3. **Product Strategy**: Phone, Copiers, Chairs, Bookcases are the company’s best-selling product overall. It is suggested that copiers and phone be posioned as a strategic product for the company.
+1. Revenue increased steadily year by year from 1.7M USD in 2011 to 3.2M USD in 2014
+2. Profit fluctuates quarterly, with peaks in Q2 2012 and Q3 2013, but a decline in Q4 2014.
 
-### Current Market Optimization
+### **2. Performance by market**
 
-- **APAC Market**: Maintain the current strategy for this market as this market has been the best performer overall. Continue to invest heavily in APAC, focusing on high-performing categories
-like Technology and Furniture (each generating over 1.3M in revenue). Slightly improve the return rate (currently around 6–7%) to boost profit margin further.
-- The **EU market** generates ~3M in revenue with a 10–13% profit margin and strong ~55% YoY growth. Focus on expanding Technology and Office Supplies, while maintaining product
-quality as return rates are stable (6–6.8%).
-- **US Market**: Focus on increasing revenue, as the US market shows excellent profitability. Consider expanding product offerings or ramping up marketing efforts.
-- **LATAM Market**: Invest cautiously: LATAM has strong growth but low margins. Focus on cost control and increasing AOV (Average Order Value) to improve profitability.
-- **Ineffecve Markets**: Africa and EMEA are underperforming, with high customer numbers but negave total profits.
---> It is recommended to invesgate the causes behind these issues to develop appropriate strategies for either improvement or withdrawal from these markets.
-- **Product Performance:**
-1. Tables have shown poor performance with negave profit margins over the past four years, resulng in losses with each sale --> Disconnue this product or adjust its pricing.
-2. The return rate for Canon Copier has reached 20% --> Invesgate the causes behind this high return rate and implement correcve measures.
+1. APAC, LATAM and US have the highest number of orders.
+
+2. Central and North Asia are the most profitable, suggesting expansion potential. LATAM, APAC and US have the highest return order rates.
+
+### **3. Customer segmentation**
+
+1. Consumer is the largest customer group (51.59%), but also has the highest return rate (51.11%).
+
+2. Corporate and Home Office have lower but more stable order rates.
+
+### **4. Product catalog**
+
+1. Office Supplies has the highest number of orders, but Technology has the highest profit margin (42.06%).
+
+2. Furniture has the lowest profit margin (19.25%), need to consider adjustment strategy.
+
+3. Staples, Eldon File Cart are best-selling products.
+
+### **5. Shipping method**
+
+1. Standard Class is the most used (~7.5K orders), while Same Day and First Class are less popular.
+
+2. Expedited shipping may need to be improved for high-value orders or business customers.
+
+## V. Recommendation
+
+1. Restore revenue growth by implementing marketing and sales campaigns in low-performing quarters.
+
+2. Expand business in Central and North Asia, because these are the two most profitable regions.
+
+3. Reduce return rates in LATAM, APAC and US by improving quality control and after-sales service.
+
+4. Focus on Corporate and Home Office customers to increase stable revenue, instead of just depending on Consumer.
+
+5. Promote sales of technology products, because they have the highest profit margin (42.06%), and optimize the strategy for Furniture.
+
+6. Improve logistics and shipping services, especially enhancing fast shipping for high-value orders.
