@@ -45,9 +45,10 @@ Here are 5 steps of Design Thinking.
 
 
 ### Step 3: Ideate ideas
-<img width="760" height="533" alt="image" src="https://github.com/user-attachments/assets/89cb1b4e-9fd3-4e3c-9961-f444f57c0803" />
+<img width="722" height="526" alt="image" src="https://github.com/user-attachments/assets/837fc3b2-a799-4aed-9725-7aea04bf73f3" />
 
-<img width="996" height="514" alt="image" src="https://github.com/user-attachments/assets/685d9ce1-27b0-4dbb-9ecd-644a01806405" />
+<img width="892" height="528" alt="image" src="https://github.com/user-attachments/assets/0bc74c23-580e-45f9-b3a6-903e1f25a8e3" />
+
 
 
 
@@ -61,61 +62,43 @@ Here are 5 steps of Design Thinking.
 ## III. Visualization
 
 ### Overview
-![PB 1](https://github.com/user-attachments/assets/fe6bc674-4145-4fae-9a32-33a91fdf4eb6)
+<img width="1214" height="667" alt="image" src="https://github.com/user-attachments/assets/c1031cb8-71ec-4359-8462-ea42030d8462" />
 
 ### Market analyst
-![PB2](https://github.com/user-attachments/assets/7443b40a-1bd4-40c1-9421-1a43989f64d4)
+<img width="1217" height="646" alt="image" src="https://github.com/user-attachments/assets/50b14878-648f-40fe-abee-6e350c7905c6" />
 
-### Customer & Product analyst
-![PB3](https://github.com/user-attachments/assets/fcd7c6f8-8281-4c0c-b185-74e27575e49a)
+### Product analyst
+<img width="1217" height="668" alt="image" src="https://github.com/user-attachments/assets/ba2320b6-4dde-49d8-a4c2-ef76890b70b6" />
 
-### Profit & Return
-![PB4](https://github.com/user-attachments/assets/7eab7786-1bbb-4fbf-8c25-ce73636e1014)
+### Insight and Recommendations
+<img width="1222" height="669" alt="image" src="https://github.com/user-attachments/assets/478842e3-66f6-47cc-9118-7e99432608a2" />
 
 
-## IV. Insights
 
-### **1. Revenue and profit trends**
+## IV. Insight & Recommendation
 
-1. Revenue increased steadily year by year from 1.7M USD in 2011 to 3.2M USD in 2014
-2. Profit fluctuates quarterly, with peaks in Q2 2012 and Q3 2013, but a decline in Q4 2014.
+### Market Expansion
 
-### **2. Performance by market**
+1. **Market Overview**: The company has established presence in all major global markets. Rather than entering a completely new market, it is recommended to expand within the existing market. Canada market is recommended.
 
-1. APAC, LATAM and US have the highest number of orders.
+Despite its strong Year-over-Year (YoY) growth rate and profit margin, Canada’s customer base remains limited, resulting in lower revenue.
 
-2. Central and North Asia are the most profitable, suggesting expansion potential. LATAM, APAC and US have the highest return order rates.
+-> It is proposed to develop a strategy to reach a broader customer segment in Canada.
 
-### **3. Customer segmentation**
+1. **Sales Agent**: Nicole Hansen is currently responsible for the Canadian market. The revenue, profit margin, and YoY growth rate indicators are performing well. It is advisable to continue his/her oversight of this market.
+2. **Product Strategy**: Phone, Copiers, Chairs, Bookcases are the company’s best-selling product overall. It is suggested that copiers and phone be positioned as a strategic product for the company.
 
-1. Consumer is the largest customer group (51.59%), but also has the highest return rate (51.11%).
+### Current Market Optimization
 
-2. Corporate and Home Office have lower but more stable order rates.
+- **APAC Market**: Maintain the current strategy for this market as this market has been the best performer overall. Continue to invest heavily in APAC, focusing on high-performing categories like Technology and Furniture (each generating over 1.3M in revenue). Slightly improve the return rate (currently around 6–7%) to boost profit margin further.
+- **The EU market** generates ~3M in revenue with a 10–13% profit margin and strong ~55% YoY growth. Focus on expanding Technology and Office Supplies, while maintaining product quality as return rates are stable (6–6.8%).
+- **US Market**: Focus on increasing revenue, as the US market shows excellent profitability. Consider expanding product offerings or ramping up marketing efforts.
+- **LATAM Market**: Invest cautiously: LATAM has strong growth but low margins.
+- **Ineffective Markets:** Africa and EMEA are underperforming, with high customer numbers but negative total profits.
 
-### **4. Product catalog**
+-> It is recommended to investigate the causes behind these issues to develop appropriate strategies for either improvement or withdrawal from these markets.
 
-1. Office Supplies has the highest number of orders, but Technology has the highest profit margin (42.06%).
+**Product Performance:**
 
-2. Furniture has the lowest profit margin (19.25%), need to consider adjustment strategy.
-
-3. Staples, Eldon File Cart are best-selling products.
-
-### **5. Shipping method**
-
-1. Standard Class is the most used (~7.5K orders), while Same Day and First Class are less popular.
-
-2. Expedited shipping may need to be improved for high-value orders or business customers.
-
-## V. Recommendation
-
-1. Restore revenue growth by implementing marketing and sales campaigns in low-performing quarters.
-
-2. Expand business in Central and North Asia, because these are the two most profitable regions.
-
-3. Reduce return rates in LATAM, APAC and US by improving quality control and after-sales service.
-
-4. Focus on Corporate and Home Office customers to increase stable revenue, instead of just depending on Consumer.
-
-5. Promote sales of technology products, because they have the highest profit margin (42.06%), and optimize the strategy for Furniture.
-
-6. Improve logistics and shipping services, especially enhancing fast shipping for high-value orders.
+- Tables have shown poor performance with negative profit margins over the past four years, resulting in losses with each sale --> Discontinue this product or adjust its pricing.
+- The return rate for Canon Copier has reached 20% --> Investigate the causes behind this high return rate and implement corrective measures.
