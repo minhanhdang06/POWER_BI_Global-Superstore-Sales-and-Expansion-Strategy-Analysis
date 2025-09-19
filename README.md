@@ -1,10 +1,33 @@
 # POWER BI-Global Superstore Sales and Expansion Strategy Analysis
 ## I. Introduction
 
+### 📌 Overview
+
+📘 **What is Project about:** 
+
+This project aims to build a Power BI dashboard using the Global Superstore Sales dataset, which includes data on transactions **(Orders)**, sales representatives **(People)**, and product returns **(Returns)**. The goal is to provide senior managers with data-driven insights to:
+
+- **Understand current business performance**
+- **Optimize market expansion strategies**
+- **Identify strategic products for growth**
+
+❓ **Business Question :**
+
+The needs of Senior Managers revolve around 3 main questions:
+
+☑️ What is the current business overview?
+
+☑️ Which markets should Superstore expand into to increase revenue ?
+
+☑️ Which products should be prioritized for strategic growth?
+
+
 ### 📁 Introduction to Dataset
 
 - **Dataset**: Global Superstore Sales
+
 Dataset stores sales information of some products of a company worldwide
+
 - **Size:** The **Orders** table contains 51,290 records.
 - **Format**: CSV
 
@@ -16,26 +39,14 @@ Consists of 3 data tables:
 
 🔁 **Table 3:** Returns: Information of Returned orders
 
-### 📌 Overview
+📊 **Relationships**
+<img width="1011" height="591" alt="image" src="https://github.com/user-attachments/assets/87fd4f70-90d5-41a2-a33e-364db27f599f" />
 
-📘 **What is Project about:** 
 
-This project aims to build a Power BI dashboard using the Global Superstore Sales dataset, which includes data on transactions **(Orders)**, sales representatives **(People)**, and product returns **(Returns)**. The goal is to provide senior managers with data-driven insights to:
-
-- **Understand current business performance**
-- **Optimize market expansion strategies**
-- **Identify strategic products for growth**
-
-❓ Business Question :
-
-The needs of Senior Managers revolve around 3 main questions:
-
-☑️ What is the current business overview?
-
-☑️ Which markets should Superstore expand into to increase revenue ?
-
-☑️ Which products should be prioritized for strategic growth?
-
+| **From Table** | **To Table** | **Join Key** | **Relationship Type** |
+| --- | --- | --- | --- |
+| Orders | People | Region | Many-to-One (multiple orders belong to one region) |
+| Orders | Returns | Order ID | One-to-One or Left Join (not all orders are returned) |
 ## II. Design Thinking
 
 Here is the process of Design Thinking.
