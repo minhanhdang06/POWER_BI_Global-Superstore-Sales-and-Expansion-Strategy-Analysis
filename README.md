@@ -1,64 +1,63 @@
 # POWER BI-Global Superstore Sales and Expansion Strategy Analysis
 ## I. Introduction
 
-### 1. Introduction to dataset
+### 📁 Introduction to Dataset
 
-Dataset: Global Superstore Sales
-
+- **Dataset**: Global Superstore Sales
 Dataset stores sales information of some products of a company worldwide
+- **Size:** The **Orders** table contains 51,290 records.
+- **Format**: CSV
 
 Consists of 3 data tables:
 
-- Table 1: Orders: Fact order
-- Table 2: People: Information of Sales person
-- Table 3: Returns: Information of Returned orders
+🛒 **Table 1: Orders**: Contains detailed transaction and customer information
 
-### 2. Business questions
+👥 **Table 2: People**: Information of Sales person.
 
-Senior managers want to grasp information about the company's business situation to develop a market expansion strategy and decide on strategic product selection.
+🔁 **Table 3:** Returns: Information of Returned orders
+
+### 📌 Overview
+
+📘 **What is Project about:** 
+
+This project aims to build a Power BI dashboard using the Global Superstore Sales dataset, which includes data on transactions **(Orders)**, sales representatives **(People)**, and product returns **(Returns)**. The goal is to provide senior managers with data-driven insights to:
+
+- **Understand current business performance**
+- **Optimize market expansion strategies**
+- **Identify strategic products for growth**
+
+❓ Business Question :
 
 The needs of Senior Managers revolve around 3 main questions:
 
-- What is the current business overview?
-- What is the business situation of the markets?
-- What is the business situation of the product groups?
+☑️ What is the current business overview?
+
+☑️ Which markets should Superstore expand into to increase revenue ?
+
+☑️ Which products should be prioritized for strategic growth?
 
 ## II. Design Thinking
 
-Here are 5 steps of Design Thinking.
+Here is the process of Design Thinking.
 
-### Step 1: Empathize
-<img width="1453" height="491" alt="image" src="https://github.com/user-attachments/assets/2db39914-f992-45ce-a388-b086796993bc" />
+### 1️⃣ Step 1: Empathize
+<img width="964" height="540" alt="image" src="https://github.com/user-attachments/assets/565bd222-fbd1-4bd3-9842-22261c4019a5" />
 
-<img width="830" height="554" alt="image" src="https://github.com/user-attachments/assets/53e256f8-ff35-4102-9d28-3f3f4750e571" />
+<img width="963" height="542" alt="image" src="https://github.com/user-attachments/assets/4292cc43-3789-40d5-8e9a-086bd01ca3bd" />
 
-<img width="356" height="525" alt="image" src="https://github.com/user-attachments/assets/cb5ba8ad-4e02-4fed-af81-2efd60084662" />
+### 2️⃣ Step 2: Define POV
+<img width="961" height="540" alt="image" src="https://github.com/user-attachments/assets/747a142f-e18f-4551-bdb1-64d66205dde4" />
 
+### 3️⃣ Step 3: Ideate ideas
+<img width="956" height="537" alt="image" src="https://github.com/user-attachments/assets/0dd80fc2-5ffd-47f2-b731-1a90474b0412" />
 
+<img width="960" height="535" alt="image" src="https://github.com/user-attachments/assets/2a04a4e9-b327-4d08-a2a4-87fab3f6224c" />
 
-### Step 2: Define POV
-<img width="507" height="473" alt="image" src="https://github.com/user-attachments/assets/99928645-f519-477f-8e87-312bc28bb57b" />
-
-<img width="540" height="494" alt="image" src="https://github.com/user-attachments/assets/529adbbb-d1b8-4cea-a2ec-4ddccd5ae874" />
-
-<img width="827" height="324" alt="image" src="https://github.com/user-attachments/assets/c31b4516-2b3e-4d37-af98-f65a363e1271" />
-
-
-### Step 3: Ideate ideas
-<img width="722" height="526" alt="image" src="https://github.com/user-attachments/assets/837fc3b2-a799-4aed-9725-7aea04bf73f3" />
-
-<img width="892" height="528" alt="image" src="https://github.com/user-attachments/assets/0bc74c23-580e-45f9-b3a6-903e1f25a8e3" />
+<img width="962" height="540" alt="image" src="https://github.com/user-attachments/assets/5cee86be-b134-4d5e-a731-b2f4dd2a15d2" />
 
 
-
-
-### Step 4: Prototype
-<img width="1033" height="115" alt="image" src="https://github.com/user-attachments/assets/3afba04b-8724-4de8-9a50-4c15a2d1b9c4" />
-
-
-### Step5: Iteration and Review
-<img width="809" height="84" alt="image" src="https://github.com/user-attachments/assets/8a3a8ba6-d9d0-425e-b747-cbd8a852db1c" />
-
+### 4️⃣ Step 4: Prototype, Iteration and Review
+This part in the Dashboard
 ## III. Visualization
 
 ### Overview
