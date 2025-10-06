@@ -40,7 +40,7 @@ Consists of 3 data tables:
 🔁 **Table 3:** Returns: Information of Returned orders
 
 📊 **Relationships**
-<img width="1011" height="591" alt="image" src="https://github.com/user-attachments/assets/87fd4f70-90d5-41a2-a33e-364db27f599f" />
+<img width="913" height="482" alt="image" src="https://github.com/user-attachments/assets/b61debed-21dd-4693-af9e-e8222d9532bc" />
 
 
 | **From Table** | **To Table** | **Join Key** | **Relationship Type** |
@@ -72,16 +72,17 @@ This part in the Dashboard
 ## III. Visualization
 
 ### Overview
-<img width="1214" height="667" alt="image" src="https://github.com/user-attachments/assets/c1031cb8-71ec-4359-8462-ea42030d8462" />
+<img width="1024" height="575" alt="image" src="https://github.com/user-attachments/assets/cdf6de84-c0ac-44f5-9ccb-6fe9d31bfd84" />
 
 ### Market analyst
-<img width="1217" height="646" alt="image" src="https://github.com/user-attachments/assets/50b14878-648f-40fe-abee-6e350c7905c6" />
+<img width="1025" height="572" alt="image" src="https://github.com/user-attachments/assets/613820c3-a21e-4874-b1eb-bc3e1adbc3e5" />
 
 ### Product analyst
-<img width="1217" height="668" alt="image" src="https://github.com/user-attachments/assets/ba2320b6-4dde-49d8-a4c2-ef76890b70b6" />
+<img width="1024" height="575" alt="image" src="https://github.com/user-attachments/assets/c671bb61-cdfd-44a1-86c0-b0a1f8309fec" />
+
 
 ### Insight and Recommendations
-<img width="1222" height="669" alt="image" src="https://github.com/user-attachments/assets/478842e3-66f6-47cc-9118-7e99432608a2" />
+<img width="1025" height="571" alt="image" src="https://github.com/user-attachments/assets/2eb2bd50-2d16-44bd-a138-bf7023271dd6" />
 
 
 
