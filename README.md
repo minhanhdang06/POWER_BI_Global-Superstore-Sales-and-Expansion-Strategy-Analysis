@@ -75,41 +75,45 @@ This part in the Dashboard
 <img width="1024" height="575" alt="image" src="https://github.com/user-attachments/assets/cdf6de84-c0ac-44f5-9ccb-6fe9d31bfd84" />
 
 ### Market analyst
-<img width="1025" height="572" alt="image" src="https://github.com/user-attachments/assets/613820c3-a21e-4874-b1eb-bc3e1adbc3e5" />
+<img width="1231" height="691" alt="image" src="https://github.com/user-attachments/assets/22cbc499-3643-4e3d-b0af-211dc6353860" />
 
 ### Product analyst
 <img width="1024" height="575" alt="image" src="https://github.com/user-attachments/assets/c671bb61-cdfd-44a1-86c0-b0a1f8309fec" />
 
 
 ### Insight and Recommendations
-<img width="1025" height="571" alt="image" src="https://github.com/user-attachments/assets/2eb2bd50-2d16-44bd-a138-bf7023271dd6" />
+<img width="1023" height="575" alt="image" src="https://github.com/user-attachments/assets/5eff7124-49f8-4962-98f7-b9961af2961a" />
 
 
 
 ## IV. Insight & Recommendation
 
+### Overview
+
+Overall, revenue and profit performance has grown year by year. Significant increase in Total orders along with stable profit margins shows the company's business growth potential.
+
+**Core Markets**: APAC and EU that bring bring the highest revenue to the company to the company with strong YoY growth (~51-55%).
+
+**The return rate** tends to decrease (from 4.71% to 4.55% in 2014).
+
+**The product categories** have a fairly even revenue distribution (Technology brings in the highest revenue with 4.74M and a profit margin of ~14%).
+
 ### Market Expansion
 
-1. **Market Overview**: The company has established presence in all major global markets. Rather than entering a completely new market, it is recommended to expand within the existing market. Canada market is recommended.
+Currently, the company has a good revenue and profit stream in global markets. Instead of entering a completely new market, we recommend focusing on promoting existing markets.
 
-Despite its strong Year-over-Year (YoY) growth rate and profit margin, Canada’s customer base remains limited, resulting in lower revenue.
+- **APAC, EU:** These are the markets with the highest revenue and profit along with stable profit margins (12%-12.7%) → Continue to maintain business and management strategies.
+- **LATAM and US** have quite solid revenue but suboptimal profitability with low YoY growth (48.5% and 46.9% respectively) → should optimally adjust costs, pricing policies, and product allocation strategies.
+- **Canada:** Although Canada has a much lower revenue than the remaining markets (possibly due to infrastructure issues, not many stores, etc.), this market has a very large growth rate and a high Profit Margin (26.62%), thereby showing the potential to bring development to the company.
 
--> It is proposed to develop a strategy to reach a broader customer segment in Canada.
+→ It is necessary to build a strategy (open more branches, develop products according to the preferences and habits of local people, etc.) to reach more customers in this market.
 
-1. **Sales Agent**: Nicole Hansen is currently responsible for the Canadian market. The revenue, profit margin, and YoY growth rate indicators are performing well. It is advisable to continue his/her oversight of this market.
-2. **Product Strategy**: Phone, Copiers, Chairs, Bookcases are the company’s best-selling product overall. It is suggested that copiers and phone be positioned as a strategic product for the company.
+- **Africa and EMEA**: are the 2 least effective markets with a high number of buyers but low profits, in which the profit growth rate is high → consider withdrawing from these markets.
 
-### Current Market Optimization
+### **Product Performance**
 
-- **APAC Market**: Maintain the current strategy for this market as this market has been the best performer overall. Continue to invest heavily in APAC, focusing on high-performing categories like Technology and Furniture (each generating over 1.3M in revenue). Slightly improve the return rate (currently around 6–7%) to boost profit margin further.
-- **The EU market** generates ~3M in revenue with a 10–13% profit margin and strong ~55% YoY growth. Focus on expanding Technology and Office Supplies, while maintaining product quality as return rates are stable (6–6.8%).
-- **US Market**: Focus on increasing revenue, as the US market shows excellent profitability. Consider expanding product offerings or ramping up marketing efforts.
-- **LATAM Market**: Invest cautiously: LATAM has strong growth but low margins.
-- **Ineffective Markets:** Africa and EMEA are underperforming, with high customer numbers but negative total profits.
+Overall The products that bring in the highest revenue are the Smart Phone lines, showing the consumer preference for Technology products.
 
--> It is recommended to investigate the causes behind these issues to develop appropriate strategies for either improvement or withdrawal from these markets.
+- Phones, Copiers, Chairs are the products that bring in the highest revenue → It is suggested that copiers and phones be positioned as a strategic product for the
 
-**Product Performance:**
-
-- Tables have shown poor performance with negative profit margins over the past four years, resulting in losses with each sale --> Discontinue this product or adjust its pricing.
-- The return rate for Canon Copier has reached 20% --> Investigate the causes behind this high return rate and implement corrective measures.
+For 4 years, Tables have brought in negative profits, which negatively affects the company's performance → Consider adjusting pricing or eliminating this product.
